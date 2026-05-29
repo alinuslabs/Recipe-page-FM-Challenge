@@ -110,7 +110,7 @@ hr{
     font-size: 2rem;
     margin-bottom: .8rem;
     color: var(--stone-900);
-    font-family: "Young Serif";
+    font-family: "Young Serif", serif;
     line-height: 2rem;
 }
 .recipe-page .recipe-intro #recipe-desc{
